@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsignmentShopsIU", "ConsignmentShopsIU\ConsignmentShopsIU.csproj", "{FFFA7A1D-6573-47D6-BD9B-26F084593B18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsignemntShopLibrary", "ConsignemntShopLibrary\ConsignemntShopLibrary.csproj", "{80667127-F6E0-433E-A25E-D2D8341DF827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFFA7A1D-6573-47D6-BD9B-26F084593B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFA7A1D-6573-47D6-BD9B-26F084593B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFA7A1D-6573-47D6-BD9B-26F084593B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFA7A1D-6573-47D6-BD9B-26F084593B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80667127-F6E0-433E-A25E-D2D8341DF827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80667127-F6E0-433E-A25E-D2D8341DF827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80667127-F6E0-433E-A25E-D2D8341DF827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80667127-F6E0-433E-A25E-D2D8341DF827}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {007FDBA5-6278-4409-9E85-F64A7007E481}
+	EndGlobalSection
+EndGlobal
